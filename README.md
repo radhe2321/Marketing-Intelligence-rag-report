@@ -76,3 +76,6 @@ cd marketing-rag-system
 
 Radhe Suthar
 Marketing Intelligence RAG Project
+
+project file link
+https://drive.google.com/file/d/1AGHS5UXV6Ks3tOWIUmp4_H12I7Tq11z2/view?usp=sharing
